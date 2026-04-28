@@ -1,1 +1,1 @@
-# KNX-open-STM32-Frimware
+# KNX-open-STM32-Firmware
